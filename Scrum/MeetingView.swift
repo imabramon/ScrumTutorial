@@ -14,12 +14,22 @@ struct MeetingView: View {
             HStack{
                 VStack(alignment: .leading) {
                     Text("Seconds elapsed")
+                        .font(.caption)
                     Label("300", systemImage: "hourglass.bottomhalf.fill")
                 }
                 Spacer()
                 VStack(alignment: .trailing) {
                     Text("Seconds remaining")
+                        .font(.caption)
                     Label("600", systemImage: "hourglass.tophalf.fill")
+                }
+            }
+            Circle()
+                .strokeBorder(lineWidth: 24, antialiased: true)
+            HStack{
+                Text("Speaker 1 of 3")
+                Button(action: {}){
+                    Image(systemName: "forward.fill")
                 }
             }
         }
