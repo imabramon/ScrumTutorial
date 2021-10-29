@@ -13,6 +13,8 @@
 		2FF7BC3427299B8C00B56CFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF7BC3327299B8C00B56CFB /* Preview Assets.xcassets */; };
 		2FF7BC3F27299B8C00B56CFB /* ScrumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC3E27299B8C00B56CFB /* ScrumTests.swift */; };
 		2FF7BC4A27299B8C00B56CFB /* ScrumUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC4927299B8C00B56CFB /* ScrumUITests.swift */; };
+		2FF7BC58272C2FDB00B56CFB /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */; };
+		2FF7BC5A272C323800B56CFB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC59272C323800B56CFB /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +47,8 @@
 		2FF7BC4527299B8C00B56CFB /* ScrumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF7BC4927299B8C00B56CFB /* ScrumUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumUITests.swift; sourceTree = "<group>"; };
 		2FF7BC4B27299B8C00B56CFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		2FF7BC59272C323800B56CFB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				2FF7BC3027299B8C00B56CFB /* Assets.xcassets */,
 				2FF7BC3527299B8C00B56CFB /* Info.plist */,
 				2FF7BC3227299B8C00B56CFB /* Preview Content */,
+				2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */,
+				2FF7BC59272C323800B56CFB /* CardView.swift */,
 			);
 			path = Scrum;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FF7BC2F27299B8B00B56CFB /* MeetingView.swift in Sources */,
+				2FF7BC58272C2FDB00B56CFB /* DailyScrum.swift in Sources */,
+				2FF7BC5A272C323800B56CFB /* CardView.swift in Sources */,
 				2FF7BC2D27299B8B00B56CFB /* ScrumApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
