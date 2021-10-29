@@ -16,6 +16,7 @@
 		2FF7BC58272C2FDB00B56CFB /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */; };
 		2FF7BC5A272C323800B56CFB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC59272C323800B56CFB /* CardView.swift */; };
 		2FF7BC5C272C372A00B56CFB /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC5B272C372A00B56CFB /* Color+Codable.swift */; };
+		2FF7BC5E272C3CEE00B56CFB /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC5D272C3CEE00B56CFB /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		2FF7BC59272C323800B56CFB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		2FF7BC5B272C372A00B56CFB /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Color+Codable.swift"; path = "Models/Color+Codable.swift"; sourceTree = "<group>"; };
+		2FF7BC5D272C3CEE00B56CFB /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				2FF7BC3227299B8C00B56CFB /* Preview Content */,
 				2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */,
 				2FF7BC59272C323800B56CFB /* CardView.swift */,
+				2FF7BC5D272C3CEE00B56CFB /* ScrumsView.swift */,
 			);
 			path = Scrum;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FF7BC2F27299B8B00B56CFB /* MeetingView.swift in Sources */,
+				2FF7BC5E272C3CEE00B56CFB /* ScrumsView.swift in Sources */,
 				2FF7BC58272C2FDB00B56CFB /* DailyScrum.swift in Sources */,
 				2FF7BC5A272C323800B56CFB /* CardView.swift in Sources */,
 				2FF7BC5C272C372A00B56CFB /* Color+Codable.swift in Sources */,
