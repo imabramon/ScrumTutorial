@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F655137272C6BB800D9FD74 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F655136272C6BB800D9FD74 /* DetailView.swift */; };
 		2FF7BC2D27299B8B00B56CFB /* ScrumApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC2C27299B8B00B56CFB /* ScrumApp.swift */; };
 		2FF7BC2F27299B8B00B56CFB /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7BC2E27299B8B00B56CFB /* MeetingView.swift */; };
 		2FF7BC3127299B8C00B56CFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF7BC3027299B8C00B56CFB /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F655136272C6BB800D9FD74 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		2FF7BC2927299B8B00B56CFB /* Scrum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF7BC2C27299B8B00B56CFB /* ScrumApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumApp.swift; sourceTree = "<group>"; };
 		2FF7BC2E27299B8B00B56CFB /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				2FF7BC57272C2FDB00B56CFB /* DailyScrum.swift */,
 				2FF7BC59272C323800B56CFB /* CardView.swift */,
 				2FF7BC5D272C3CEE00B56CFB /* ScrumsView.swift */,
+				2F655136272C6BB800D9FD74 /* DetailView.swift */,
 			);
 			path = Scrum;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				2FF7BC2F27299B8B00B56CFB /* MeetingView.swift in Sources */,
 				2FF7BC5E272C3CEE00B56CFB /* ScrumsView.swift in Sources */,
 				2FF7BC58272C2FDB00B56CFB /* DailyScrum.swift in Sources */,
+				2F655137272C6BB800D9FD74 /* DetailView.swift in Sources */,
 				2FF7BC5A272C323800B56CFB /* CardView.swift in Sources */,
 				2FF7BC5C272C372A00B56CFB /* Color+Codable.swift in Sources */,
 				2FF7BC2D27299B8B00B56CFB /* ScrumApp.swift in Sources */,
