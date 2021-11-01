@@ -10,7 +10,7 @@ import SwiftUI
 struct DetailView: View {
     @Binding var scrum: DailyScrum
     
-    @State private var data: DailyScrum.Data = DailyScrum.Data()
+    @State private var data: DailyScrum.Data = DailyScrum.Data() 
     @State private var isPressented = false
     
     var body: some View {
