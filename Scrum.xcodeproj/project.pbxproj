@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F04BC732735D50700CF87EB /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F04BC722735D50700CF87EB /* MeetingHeaderView.swift */; };
 		2F655137272C6BB800D9FD74 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F655136272C6BB800D9FD74 /* DetailView.swift */; };
 		2F655139272D95F600D9FD74 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F655138272D95F600D9FD74 /* EditView.swift */; };
 		2F9EF9E0273560AD0076C203 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9EF9DF273560AC0076C203 /* Color+Codable.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F04BC722735D50700CF87EB /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		2F655136272C6BB800D9FD74 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		2F655138272D95F600D9FD74 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		2F9EF9DF273560AC0076C203 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				2FF7BC5D272C3CEE00B56CFB /* ScrumsView.swift */,
 				2F655136272C6BB800D9FD74 /* DetailView.swift */,
 				2F655138272D95F600D9FD74 /* EditView.swift */,
+				2F04BC722735D50700CF87EB /* MeetingHeaderView.swift */,
 			);
 			path = Scrum;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				2FF7BC2F27299B8B00B56CFB /* MeetingView.swift in Sources */,
 				2FF7BC5E272C3CEE00B56CFB /* ScrumsView.swift in Sources */,
 				2F655139272D95F600D9FD74 /* EditView.swift in Sources */,
+				2F04BC732735D50700CF87EB /* MeetingHeaderView.swift in Sources */,
 				2FF7BC58272C2FDB00B56CFB /* DailyScrum.swift in Sources */,
 				2F655137272C6BB800D9FD74 /* DetailView.swift in Sources */,
 				2FF7BC5A272C323800B56CFB /* CardView.swift in Sources */,
